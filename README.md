@@ -14,12 +14,14 @@
 <a href="https://www.threads.net/@haydendoestech"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@haydendoestech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.youtube.com/@HaydenDoesTech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://linkedin.com/in/haydenthomaslacelle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hello@haydendoestech.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/haydenlacelle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hello@haydendoestech.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 <!--- Substack Posts --->
 <h3>📌 I write about tech sometimes, too. Check out my latest Substack posts!</h3>
-<p>Nothing here (yet)! Check back later here or on <a href="https://haydendoestech.com">my website at HaydenDoesTech.com</a>.</p>
+<p>- <a href="https://www.haydendoestech.com/p/hdtsp-gender-inclusivity"><b>Hayden LaCelle Does Tech SP Statement of Gender Inclusivity and Fighting Against Targeted Hate</b></a></p>
+<p>- <a href="https://www.haydendoestech.com/p/tiktok-ban-audience-consolidation"><b>The TikTok ban highlights another issue: Audience consolidation</b></a></p>
+<p>- <a href="https://www.haydendoestech.com/p/wsu-software-development-club-end"><b>WSU Software Development Club End-of-Semester Presentations</b></a></p>
 
 
 
