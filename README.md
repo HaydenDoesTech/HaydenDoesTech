@@ -1,6 +1,6 @@
 <!--- Header --->
 <h1><img src="https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51553e4b-f9cf-4c4a-8e42-97d33d89245f_500x500.png" width="50"/> Hayden LaCelle Does Tech</h1>
-<p>Welcome to my GitHub page!</br> My name is Hayden LaCelle, and I am a freshman in pre-engineering at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Washington_State_Cougars_logo.svg/1200px-Washington_State_Cougars_logo.svg.png" width="20"/> <b>Washington State University</b>!</p>
+<p>Welcome to my GitHub page!</br> My name is Hayden LaCelle, and I am currently a Computer Engineering sophomore at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Washington_State_Cougars_logo.svg/1200px-Washington_State_Cougars_logo.svg.png" width="20"/> <b>Washington State University</b>!</p>
 <!--- Mini biography --->
 <p>- 👀 Right now, I'm interested in, yes, continuing my learning, but also learning to apply it in real world situations. I did take coding classes in high school, and I did get good scores in them (including AP Computer Science) and learn a lot, but I never really got to fully apply my code in real world situations. Now that I'm in college and have the resources to, I want to actually start doing some more stuff as I learn! That's partially why I made a GitHub.</p>
 <p>- 🌱 I’m currently learning C++. I've had previous intermediate experience with Python (received a certiicate for Intermediate Programming from the Washington State Office of Superintendent of Public Instruction), but am a little rusty on that since I haven't worked with it in a while.</p>
@@ -19,9 +19,7 @@
 
 <!--- Substack Posts --->
 <h3>📌 I write about tech sometimes, too. Check out my latest Substack posts!</h3>
-<p>- <a href="https://www.haydendoestech.com/p/hdtsp-gender-inclusivity"><b>Hayden LaCelle Does Tech SP Statement of Gender Inclusivity and Fighting Against Targeted Hate</b></a></p>
-<p>- <a href="https://www.haydendoestech.com/p/tiktok-ban-audience-consolidation"><b>The TikTok ban highlights another issue: Audience consolidation</b></a></p>
-<p>- <a href="https://www.haydendoestech.com/p/wsu-software-development-club-end"><b>WSU Software Development Club End-of-Semester Presentations</b></a></p>
+<p>None right now, check back here soon!</p>
 
 
 
