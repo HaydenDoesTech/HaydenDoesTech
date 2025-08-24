@@ -1,0 +1,3 @@
+I, Hayden LaCelle, hereby declare that I am all set to write C++ code for Linux (or Mac-Unix) and push the code to GitHub from my command line!
+
+// This file is for a CPT_S 223 class assignment.
